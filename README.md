@@ -1,3 +1,4 @@
+ 
  redux有两个函数分别是createStore和combineReducers
  
     createStore接收一个参数reducer创建一个对象，对象里存储了getState、dispatch、subscribe三个方法
